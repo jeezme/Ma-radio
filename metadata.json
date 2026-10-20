@@ -1,0 +1,6 @@
+{
+  "name": "Ma radio",
+  "description": "Web radio intuitive avec radios favorites (France Musique, RMC, FIP, RFI, Radio Nova), recherche avancée, égaliseur et lecture en arrière-plan pour Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
